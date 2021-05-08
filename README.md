@@ -4,7 +4,7 @@ cd ModelValidation
 
 Run migrations.
 
-Start app.
+Start app using `dotnet watch run`
 
 Navigate to https://localhost:5001/people
 
