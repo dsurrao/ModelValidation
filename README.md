@@ -1,5 +1,7 @@
 # ModelValidation
 
+cd ModelValidation
+
 Run migrations.
 
 Start app.
