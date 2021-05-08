@@ -18,6 +18,14 @@
             @Html.DisplayFor(model => model.Person.Name)
         </dd>
     </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Person.Role)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Person.Role)
+        </dd>
+    </dl>
 </div>
 <div>
     <a asp-page="./Edit" asp-route-id="@Model.Person.ID">Edit</a> |
