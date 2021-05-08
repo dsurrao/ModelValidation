@@ -1,6 +1,6 @@
 # ModelValidation
 
-cd ModelValidation
+`cd ModelValidation`
 
 Run migrations.
 
